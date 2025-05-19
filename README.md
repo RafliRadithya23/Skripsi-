@@ -1,0 +1,2 @@
+# Skripsi-
+Syntax dan data
