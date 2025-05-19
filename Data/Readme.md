@@ -1,4 +1,4 @@
-Data yang terdiri dari
+# 📊 Data yang terdiri dari
 - IDX
 - USD/IDR
 - Gold Price
